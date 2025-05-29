@@ -38,8 +38,8 @@ I enjoy building meaningful and useful mobile apps, especially those that solve 
   <a href="https://github.com/Dmitriy-2001/megahh">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmitriy-2001&repo=megahh&theme=github_dark" />
   </a>
-   <a href="https://github.com/Dmitriy-2001/Playlist.Maker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmitriy-2001&repo=Playlist.Maker&theme=github_dark" />
+   <a href="https://github.com/Dmitriy-2001/PlaylistMaker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmitriy-2001&repo=PlaylistMaker&theme=github_dark" />
   </a>
   <a href="https://github.com/Dmitriy-2001/mywallet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmitriy-2001&repo=mywallet&theme=github_dark" />
