@@ -1,18 +1,18 @@
-<h1 align="center">Hi there, I'm Dmitrii 👋</h1>
+<h1 align="center">Привет, я Дмитрий 👋</h1>
 <h3 align="center">💻 Android Developer</h3>
 
 ---
 
 
-<h3 align="center">🧠 About Me</h3>
-I'm passionate about programming since the age of 14 and a graduate of Yandex Practicum's Android Developer course.  
-I enjoy building meaningful and useful mobile apps, especially those that solve real-world problems. I would be glad to work in a friendly team!
+<h3 align="center">🧠 Обо мне</h3>
+Я увлечен программированием с 14 лет и окончил курс «Разработчик Android» от Yandex Practicum. 
+Мне нравится создавать содержательные и полезные мобильные приложения, особенно те, которые решают реальные проблемы. Буду рад работать в дружной команде!
 
-> 🏆 “Remind me never to give up” — my winning phrase in a Yandex merch contest, reflecting my mindset and approach to development.
+> 🏆 «Напомни мне никогда не сдаваться» — моя победная фраза в конкурсе на мерч Яндекса, отражающая мой образ мышления и подход к разработке.
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">🛠️ Технологии</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -33,10 +33,10 @@ I enjoy building meaningful and useful mobile apps, especially those that solve 
 
 ---
  
-<h3 align="center">📌 Pinned Projects</h3>
+<h3 align="center">📌 Проекты</h3>
 <p align="center">
-  <a href="https://github.com/Dmitriy-2001/megahh">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmitriy-2001&repo=megahh&theme=github_dark" />
+  <a href="https://github.com/Dmitriy-2001/MegaHH">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmitriy-2001&repo=MegaHH&theme=github_dark" />
   </a>
    <a href="https://github.com/Dmitriy-2001/PlaylistMaker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmitriy-2001&repo=PlaylistMaker&theme=github_dark" />
@@ -48,7 +48,7 @@ I enjoy building meaningful and useful mobile apps, especially those that solve 
 
 ---
 
-<h3 align="center">📬 Contact Me</h3>
+<h3 align="center">📬 Напиши мне!</h3>
 <p align="center">
    <a href="https://t.me/Dmitro2001">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
